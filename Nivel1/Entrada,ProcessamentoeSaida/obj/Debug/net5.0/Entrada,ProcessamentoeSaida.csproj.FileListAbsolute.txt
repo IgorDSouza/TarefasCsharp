@@ -1,0 +1,16 @@
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.csproj.AssemblyReference.cache
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.AssemblyInfoInputs.cache
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.AssemblyInfo.cs
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.csproj.CoreCompileInputs.cache
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.exe
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.deps.json
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.runtimeconfig.json
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.runtimeconfig.dev.json
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.dll
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\bin\Debug\net5.0\Entrada,ProcessamentoeSaida.pdb
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.dll
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\refint\Entrada,ProcessamentoeSaida.dll
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.pdb
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\Entrada,ProcessamentoeSaida.genruntimeconfig.cache
+C:\Users\Igor de Souza\source\repos\Nivel1\Entrada,ProcessamentoeSaida\obj\Debug\net5.0\ref\Entrada,ProcessamentoeSaida.dll

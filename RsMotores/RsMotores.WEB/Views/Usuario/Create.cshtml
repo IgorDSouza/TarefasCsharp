@@ -1,0 +1,22 @@
+@{
+    ViewBag.Title = "Cadastrar usuário";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+<form asp-controller="Usuario" asp-action="Create" method="post">
+    <div><label>Nome</label>                    </div>
+    <div><input type="text" name="nome"/>       </div>
+    <div><label>CPF</label>                     </div>
+    <div><input type="text" name="cpf"/>        </div>
+    <div><label>Email</label>                   </div>
+    <div><input type="email" name="email"/>     </div>
+    <div><label>Senha</label>                   </div>
+    <div><input type="password" name="senha"/>  </div>
+    <div><input type="submit" value="Cadastrar Novo"/>                 </div>
+</form>
+
+<form asp-controller="Usuario" asp-action="Show" method="post">
+    <div><input type="submit" value="Ver Lista"/>                 </div>
+</form>
+    <div class="text-success">@Model</div>

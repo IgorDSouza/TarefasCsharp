@@ -1,0 +1,20 @@
+@{
+    ViewBag.Title = "Cadastrar Produto";
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+<form asp-controller="Produto" asp-action="Create" method="post">
+    <div><label>Nome</label>                    </div>
+    <div><input type="text" name="nome"/>       </div>
+    <div><label>Preco</label>                     </div>
+    <div><input type="text" name="preco"/>        </div>
+    <div><label>Quantidade</label>                   </div>
+    <div><input type="text" name="quantidade"/>     </div>
+    <div><input type="submit" value="Cadastrar Novo"/>                 </div>
+</form>
+
+<form asp-controller="Produto" asp-action="Show" method="post">
+    <div><input type="submit" value="Ver Lista"/>                 </div>
+</form>
+    <div class="text-success">@Model</div>

@@ -1,0 +1,38 @@
+@model ICollection<RsMotores.WEB.Models.Produto>
+
+@{
+
+
+
+    ViewBag.Title = "Visualizar Produtos";
+
+
+
+    Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Preco</th>
+        </tr>
+    </thead>
+    <tbody>
+        <thead class="thead-light">
+            @foreach (var item in Model)
+            { 
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.nome</td>
+                <td>@item.preco</td>
+
+            </tr>
+
+            }
+        </thead>
+    </tbody>
+</table>

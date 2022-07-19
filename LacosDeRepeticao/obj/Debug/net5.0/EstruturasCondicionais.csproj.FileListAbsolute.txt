@@ -1,0 +1,32 @@
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.exe
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.deps.json
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.dll
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\ref\EstruturasCondicionais.dll
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.pdb
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.dll
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\ref\EstruturasCondicionais.dll
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.pdb
+C:\Users\aluno\source\repos\LacosDeRepeticao\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.dll
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.pdb
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.exe
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.deps.json
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.dev.json
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.dll
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\bin\Debug\net5.0\EstruturasCondicionais.pdb
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\refint\EstruturasCondicionais.dll
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\Igor de Souza\OneDrive\Documentos\C#\LacosDeRepeticao\obj\Debug\net5.0\ref\EstruturasCondicionais.dll
